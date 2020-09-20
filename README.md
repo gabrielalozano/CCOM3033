@@ -1,2 +1,2 @@
 # CCOM3033
-Ejercicios utilizados
+Aqui estan todos los ejercicios utilizados en las tutorias.
