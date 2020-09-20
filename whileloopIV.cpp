@@ -14,7 +14,7 @@ int main() {
 cout << "Entre un numero entre 1 y 100" << endl;
 cin >> num;
 while(num < 1 || num > 100){
-  cout << "Error: Entre un numero entre 1 y 100" << endl;
+  cout << "Error: Entre un numero entre 1 y 100" << endl; // Si el valor ingresado no esta entre 1 y 100 se repite hasta que el numero sea valido
   cin >> num;
 }
 
