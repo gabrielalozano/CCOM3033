@@ -2,7 +2,7 @@
 /*
 Autora: Gabriela Lozano
 Nombre: RecursionEstrella.cpp
-Programa: Crea una funcion recursiva que despliega estrellas dependendiendo del valor que tenga.
+Programa: Crea una funcion recursiva que despliega estrellas dependendiendo del valor que tenga. Desde abajo hacia arriba
 */
 
 #include <iostream>
