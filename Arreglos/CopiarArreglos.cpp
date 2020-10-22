@@ -26,5 +26,7 @@ for(int i=0; i<3;i++){
 
 if(iguales) cout << "Los arreglos son iguales";
 else cout << "Los arreglos son diferentes";
+  
+return 0 ;
 }
 
