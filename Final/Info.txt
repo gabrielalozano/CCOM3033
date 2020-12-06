@@ -1,0 +1,4 @@
+Compañia Lozano
+Nombre	Apellido	Seguro Social	Horas Trabajadas	Pago por Hora
+Isa	Perez	203-45-1111	20	7.25
+Danny	Torres	420-88-9245	50	10
